@@ -1,2 +1,2 @@
-tup: tuple = (1)
+tup: tuple = 1
 print(tup)
