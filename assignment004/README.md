@@ -46,7 +46,7 @@ use `find` command to get the files ending with the extension `.csv`
 7. Shift the folder "dir_6" to the "results" folder.
 I like to use `copy-delete` strategy instead of using `mv` as it reduces ambiguity
 
-![move dir_6 to results](https://github.com/e9spagala/assignment/assets/167054006/a525f6c4-bd4f-4905-9d8d-3f1ecbd6ca6d)
+![323565977-a525f6c4-bd4f-4905-9d8d-3f1ecbd6ca6d(1)](https://github.com/e9spagala/assignment/assets/167054006/4680b0c0-97ed-4f37-9c6a-7de934dbbec2)
 
 8. Search for a keyword in the files in base_dir.
 
