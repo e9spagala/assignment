@@ -11,7 +11,8 @@ factorial=(1 1)
     do
         if [[ n > 1 ]]
         then
-            factorial+=(${factorial[i - 1]}*$i)
+            fact=$((factorial[i-1]*i))
+            factorial+=($fact)
         fi
         echo $i,${factorial[i]}
     done > result.txt
